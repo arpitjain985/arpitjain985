@@ -41,8 +41,26 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,C++,mysql,tensorflow,opencv,docker,Langchain,RAG,Huggingface" />
-    <img src="https://skillicons.dev/icons?i=Ollama,Microsoft Azure,streamlit,jupyter,LlamaIndex,Google Cloud,mongodb,flask" /><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,opencv,docker,pytorch,fastapi,kubernetes,flask,mongodb" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=azure,git,pycharm,solidity,github" />
+
+
+
+<img src="https://cdn.simpleicons.org/huggingface" height="50" />
+<img src="https://cdn.simpleicons.org/streamlit" height="50" />
+<img src="https://cdn.simpleicons.org/jupyter" height="50" />
+<img src="https://cdn.simpleicons.org/langchain" height="50" />
+<img src="https://cdn.simpleicons.org/ollama" height="50" />
+
+
+
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-FF6B35?style=for-the-badge" />
+
 </div>
 
 <br/>
@@ -51,7 +69,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arpitjain985/arpitjain985/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -61,10 +79,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-arpitjain985.vercel.app/?user=arpitjain985&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-arpitjain985.vercel.app/api?username=arpitjain985&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-arpitjain985.vercel.app/api/top-langs/?username=arpitjain985&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
