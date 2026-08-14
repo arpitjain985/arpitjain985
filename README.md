@@ -18,9 +18,10 @@
 
 💬 Ask me about **RAG, Langchain, AI Tools**
 
-⚡ Fun fact **The Hogwarts Express was a real steam train — apparently even magic needs good engineering. 🚂✨**
-
 📫 How to reach me: (arpitjain36450@gmail.com)
+
+⚡ Fun fact **The Hogwarts Express was a real steam train — apparently even magic needs good engineering. 🚂✨**
+<br>
 
  </div>
  
