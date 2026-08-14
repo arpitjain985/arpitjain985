@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c++,mysql,Tensorflow,opencv,docker,langchain,RAG,HuggingFace,r" />
+    <img src="https://skillicons.dev/icons?i=python,C++,mysql,tensorflow,opencv,docker,Langchain,RAG,Huggingface" />
     <img src="https://skillicons.dev/icons?i=Ollama,Microsoft Azure,streamlit,jupyter,LlamaIndex,Google Cloud,mongodb,flask" /><br>
 </div>
 
